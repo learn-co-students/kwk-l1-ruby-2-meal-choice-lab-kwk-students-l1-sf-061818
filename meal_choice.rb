@@ -26,8 +26,8 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
-def snacks(food = "Swedish fish")
-  "Any time is really the best time for #{food}!"
+def snacks(food = "Cheetos")
+  "Any time, is the right time for #{food}!"
 end
 
 
